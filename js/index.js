@@ -1,4 +1,4 @@
-var audio = new Audio("http://109.74.196.48:8251/ragasiam");
+var audio = new Audio("http://109.74.196.48:8251/stream");
 
 $('#play-pause-button').on("click",function(){
   if($(this).hasClass('fa-play'))
